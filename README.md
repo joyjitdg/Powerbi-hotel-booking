@@ -7,13 +7,21 @@ Objective
 In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less hotel room usage. Consequently, lowering cancellation rates in both hotels’ primary goal in order to increase their efficiency in generating revenue, and for us to offer business advice to address their problem.
 
 Step Followed:
-1.	Data Gathering
-•	Importing raw CSV file into Power BI & transforming them into Power Query editor for cleaning and data processing.
-2.	Data Gathering
-•	Cleaning is done by removing empty columns, removing duplicates, errors etc.
-•	Replacing values in columns with proper values and naming.
-•	Detecting data type of every column, using the auto-detect data type function in the Power query editor.
-3.	Dashboarding steps
+1.	Data Gathering:
+
+Importing raw CSV file into Power BI & transforming them into Power Query editor for cleaning and data processing.
+
+2. Data Cleaning:
+   
+Cleaning is done by removing empty columns, duplicates, errors etc.
+
+Replacing values in columns with proper values and naming.
+
+Detecting data type of every column, using the auto-detect data type function in the Power query editor.
+
+
+
+Dashboarding steps:
 
 KPI CARDS
 1. Find the Total number of cancellations in resort hotels and city hotels.

@@ -1,35 +1,40 @@
 # Powerbi-hotel-booking
 
 Dataset Overview
-This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and 31st of August 2017, including booking that effectively arrived and booking that were cancelled.
+This dataset contains 119390 observations for a City Hotel and a Resort Hotel. Each observation represents a hotel booking between the 1st of July 2015 and the 31st of August 2017, including bookings that effectively arrived and bookings that were cancelled.
 
 Objective
-In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less hotel room usage. Consequently, lowering cancellation rates in both hotels’ primary goal in order to increase their efficiency in generating revenue, and for us to offer through business advice to address their problem.
+In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less hotel room usage. Consequently, lowering cancellation rates in both hotels’ primary goal in order to increase their efficiency in generating revenue, and for us to offer business advice to address their problem.
 
 Step Followed:
 1.	Data Gathering
-•	Importing raw csv file into Power BI & transform to Power Query editor for cleaning and data processing.
+•	Importing raw CSV file into Power BI & transforming them into Power Query editor for cleaning and data processing.
 2.	Data Gathering
-•	Cleaning is done by removing empty column, removing duplicates, errors etc.
-•	Replacing values in column with proper values and naming.
-•	Detecting data type of every column, using the auto detect data type function in Power query editor.
+•	Cleaning is done by removing empty columns, removing duplicates, errors etc.
+•	Replacing values in columns with proper values and naming.
+•	Detecting data type of every column, using the auto-detect data type function in the Power query editor.
 3.	Dashboarding steps
 
 KPI CARDS
-a.	Find Total number of cancelation in resort hotel and city hotel .
-b.	Find Total number of not Cancelled in resort hotel and city hotel.
-c.	Find Total number of transactions.
+1. Find the Total number of cancellations in resort hotels and city hotels.
+2. Find the Total number of not Cancelled in resort hotels and city hotels.
+3. Find the Total number of transactions.
 
-FILTER PANNEL
-a.	Filter Our report data with Country wise and Month wise.
 
-Charts Used in Our report
+FILTER PANEL
+1. Filter Our report data country-wise and month-wise.
 
-a.	Show Cancelled booking and Not Cancelled booking by hotel wise in column chart.
-b.	Show Cancelled booking and Not Cancelled booking by Month wise in column chart.
-c.	Show Top 10 Cancelled booking by country wise in pie chart.
-d.	Show Cancelled booking and Not Cancelled booking by Week name wise in bar chart.
-e.	Show Cancelled booking and Average daily rate by Month wise in line column chart.
+Charts Used in Our Report
+
+1. Show Cancelled booking and Not Cancelled booking by the hotel in the column chart.
+2. Show Cancelled booking and Not Cancelled booking by Month in the column chart.
+3. Show the Top 10 Cancelled bookings by country in the pie chart.
+4. Show Cancelled booking and Not Cancelled booking by Week name-wise in the bar chart.
+5. Show Cancelled bookings and Average daily rate Month-wise in the line column chart.
+
+
+
+
 
     
 
